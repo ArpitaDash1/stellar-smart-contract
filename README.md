@@ -14,6 +14,13 @@
 
 ---
 
+## 🪐 **Contract Information**
+
+- **Contract ID:** `CBNVQM4KBTO37NPYO47O3KT43WZPPP4XRGT6FTAUH6T7SU4JEDDBV657`  
+- **View on Stellar Expert:** [🔗 Click here to view on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBNVQM4KBTO37NPYO47O3KT43WZPPP4XRGT6FTAUH6T7SU4JEDDBV657)
+
+---
+
 ## 🧩 **Project Details**
 
 **Stellar Smart Contract** is a decentralized application built on the Polygon blockchain that enables users to create, verify, and execute digital agreements without intermediaries.  
